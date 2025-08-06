@@ -1,0 +1,11 @@
+This repository contains the research analysis scripts of our work in
+assessing methylome and proteome differences between TI and TII human
+skeletal muscle fibres.
+
+Integrated Fibre-Specific Methylome and Proteome Profiling of Human
+Skeletal Muscle Across Males and Females with Fibre-Type
+Deconvolution.
+
+The following folders contains all code associated
+with the publication. These materials contains code used for
+analyses and code used to develop figures.
